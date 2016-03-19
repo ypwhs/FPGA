@@ -1,0 +1,46 @@
+m255
+K3
+13
+cModel Technology
+Z0 d\\Mac\Home\Desktop\FPGA\test\simulation\modelsim
+v_74HC138
+!i10b 1
+!s100 ;lKhjR7hHGXlSOlSJhG4_2
+I2BeB8R1U6L^3Y6054Y;[j0
+Vo<k_oVTfMFf>;K8FW@>]Y0
+Z1 d\\Mac\Home\Desktop\FPGA\test\simulation\modelsim
+Z2 w1452335664
+Z3 8//Mac/Home/Desktop/FPGA/test/test.v
+Z4 F//Mac/Home/Desktop/FPGA/test/test.v
+L0 17
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z6 !s108 1452336946.849000
+Z7 !s107 //Mac/Home/Desktop/FPGA/test/test.v|
+Z8 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+//Mac/Home/Desktop/FPGA/test|//Mac/Home/Desktop/FPGA/test/test.v|
+!s101 -O0
+Z9 o-vlog01compat -work work -O0
+Z10 !s92 -vlog01compat -work work +incdir+//Mac/Home/Desktop/FPGA/test -O0
+n@_74@h@c138
+vtest
+!i10b 1
+!s100 Aj5B4I=96M0_<LDkE6iFH1
+I^X3M]_=3I7RU7Em@kJW561
+VKMA=f^a1nmhL:GL0LUFAP0
+R1
+R2
+R3
+R4
+L0 1
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+R9
+R10

@@ -1,0 +1,64 @@
+|test
+EN => EN.IN1
+A0 => A0.IN1
+A1 => A1.IN1
+A2 => A2.IN1
+DATA[0] <= _74HC138:U1.DATA
+DATA[1] <= _74HC138:U1.DATA
+DATA[2] <= _74HC138:U1.DATA
+DATA[3] <= _74HC138:U1.DATA
+DATA[4] <= _74HC138:U1.DATA
+DATA[5] <= _74HC138:U1.DATA
+DATA[6] <= _74HC138:U1.DATA
+DATA[7] <= _74HC138:U1.DATA
+SELECT[0] <= <GND>
+SELECT[1] <= <GND>
+SELECT[2] <= <GND>
+SELECT[3] <= <GND>
+SELECT[4] <= <GND>
+SELECT[5] <= <GND>
+
+
+|test|_74HC138:U1
+EN => WideNand0.IN0
+EN => WideNand1.IN0
+EN => WideNand2.IN0
+EN => WideNand3.IN0
+EN => WideNand4.IN0
+EN => WideNand5.IN0
+EN => WideNand6.IN0
+EN => WideNand7.IN0
+A0 => WideNand0.IN1
+A0 => WideNand2.IN1
+A0 => WideNand4.IN1
+A0 => WideNand6.IN1
+A0 => WideNand7.IN1
+A0 => WideNand5.IN1
+A0 => WideNand3.IN1
+A0 => WideNand1.IN1
+A1 => WideNand0.IN2
+A1 => WideNand1.IN2
+A1 => WideNand4.IN2
+A1 => WideNand5.IN2
+A1 => WideNand7.IN2
+A1 => WideNand6.IN2
+A1 => WideNand3.IN2
+A1 => WideNand2.IN2
+A2 => WideNand0.IN3
+A2 => WideNand1.IN3
+A2 => WideNand2.IN3
+A2 => WideNand3.IN3
+A2 => WideNand7.IN3
+A2 => WideNand6.IN3
+A2 => WideNand5.IN3
+A2 => WideNand4.IN3
+DATA[0] <= WideNand0.DB_MAX_OUTPUT_PORT_TYPE
+DATA[1] <= WideNand1.DB_MAX_OUTPUT_PORT_TYPE
+DATA[2] <= WideNand2.DB_MAX_OUTPUT_PORT_TYPE
+DATA[3] <= WideNand3.DB_MAX_OUTPUT_PORT_TYPE
+DATA[4] <= WideNand4.DB_MAX_OUTPUT_PORT_TYPE
+DATA[5] <= WideNand5.DB_MAX_OUTPUT_PORT_TYPE
+DATA[6] <= WideNand6.DB_MAX_OUTPUT_PORT_TYPE
+DATA[7] <= WideNand7.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at test.v(4): object "SELECT" differs only in case from object "select" in the same scope
+Info (10281): Verilog HDL Declaration information at test.v(19): object "DATA" differs only in case from object "data" in the same scope
